@@ -1,0 +1,12 @@
+{
+  "mydb": {
+    "host": "meetups-00-02-knbrd.mongodb.net",
+    "port": 27017,
+    "url": "mongodb://6bitjs@gmail.com:209SPark$$@meetups-shard-00-02-knbrd.net:27017",
+    "database": "mydb",
+    "password": "209SPark$$",
+    "name": "mydb",
+    "user": "6bitjs@gmail.com",
+    "connector": "mongodb"
+  }
+}
