@@ -1,9 +1,9 @@
 # Node_loopback_MongoDB
 Loopback with Node.JS and MongoDB This post is a continuation of “Mean Stack App Sample — The backend (I)”, with the api from the previous post I will make some test with Loopbak 3.x
 
-*****Node Cash clear command.
+# *****Node Cash clear command.
 
-#C:\Users\ [user name] \AppData\Roaming\npm-cache\
+C:\Users\ [user name] \AppData\Roaming\npm-cache\
 
 ## 1) Select All files.
 ## 2) Delect All files.
@@ -20,6 +20,7 @@ You can build as following:
 ## 3). npm install npm --global
 
 ## 4). npm install express
+	
 
 ## 5). npm install
 
