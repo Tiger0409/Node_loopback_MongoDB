@@ -2,8 +2,7 @@
 Loopback with Node.JS and MongoDB This post is a continuation of “Mean Stack App Sample — The backend (I)”, with the api from the previous post I will make some test with Loopbak 3.x
 
 # *****Node Cash clear command.
-
-C:\Users\ [user name] \AppData\Roaming\npm-cache\
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/0_1.PNG
 
 ## 1) Select All files.
 ## 2) Delect All files.
