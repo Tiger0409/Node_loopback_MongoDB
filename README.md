@@ -79,7 +79,7 @@ https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/4.PNG
 		 Property name:
 		
 		...    
-		https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/6.PNG
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/6.PNG
 		
 		
 ## 9). Install
@@ -89,6 +89,6 @@ https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/4.PNG
 	Web server listening at: http://localhost:3000
 	Browse your REST API at http://localhost:3000/explorer
 	
-	https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/1.PNG
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/1.PNG
 	
 ## 10. Test:
