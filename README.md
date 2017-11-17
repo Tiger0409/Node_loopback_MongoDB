@@ -18,12 +18,16 @@ You can build as following:
 	
 ## 3). npm install npm --global
 
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/1.PNG
+
 ## 4). npm install express
 	
 
 ## 5). npm install
-
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/2.PNG
 ## 6). npm install -g strongloop
+
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/3.PNG
 
 ## 7). slc loopback todo
 
@@ -31,11 +35,14 @@ You can build as following:
 	New Created folder name
 	3.x
 	empty-server (An empty LoopBack API, without any configured models or datasources)
+https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/4.PNG
+
 	
 ## 8). Created models
 
 	Cd/ New Created folder name
 	slc loopback:model
+	https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/5.PNG
 	
 	? Enter the model name: cat
 		? Select model's base class PersistedModel
@@ -72,6 +79,7 @@ You can build as following:
 		? Property name:
 		
 		...    
+		https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/6.PNG
 		
 		
 ## 9). Install
@@ -81,5 +89,6 @@ You can build as following:
 	Web server listening at: http://localhost:3000
 	Browse your REST API at http://localhost:3000/explorer
 	
+	https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/1.PNG
 	
 ## 10. Test:
