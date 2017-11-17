@@ -44,39 +44,39 @@ https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/4.PNG
 	slc loopback:model
 	https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/5.PNG
 	
-	? Enter the model name: cat
-		? Select model's base class PersistedModel
-		? Expose cat via the REST API? Yes
-		? Custom plural form (used to build REST URL): cats
-		? Common model or server only? common
+	 Enter the model name: cat
+		 Select model's base class PersistedModel
+		 Expose cat via the REST API? Yes
+		 Custom plural form (used to build REST URL): cats
+		 Common model or server only? common
 		Let's add some cat properties now.
 
 		Enter an empty property name when done.
-		? Property name: name
+		 Property name: name
 		   invoke   loopback:property
-		? Property type: string
-		? Required? Yes
-		? Default value[leave blank for none]:
+		 Property type: string
+		 Required? Yes
+		 Default value[leave blank for none]:
 
 		Let's add another cat property.
 		Enter an empty property name when done.
-		? Property name: weight
+		 Property name: weight
 		   invoke   loopback:property
-		? Property type: number
-		? Required? Yes
-		? Default value[leave blank for none]:
+		 Property type: number
+		 Required? Yes
+		 Default value[leave blank for none]:
 
 		Let's add another cat property.
 		Enter an empty property name when done.
-		? Property name: age
+		 Property name: age
 		   invoke   loopback:property
-		? Property type: number
-		? Required? Yes
-		? Default value[leave blank for none]:
+		 Property type: number
+		 Required? Yes
+		 Default value[leave blank for none]:
 
 		Let's add another cat property.
 		Enter an empty property name when done.
-		? Property name:
+		 Property name:
 		
 		...    
 		https://github.com/Tiger0409/Node_loopback_MongoDB/blob/master/IMG_git/6.PNG
